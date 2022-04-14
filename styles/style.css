@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#cronometro{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+#iniciar{
+    background-color: green;
+    font-size: 24px;
+    height: 30px;
+}
+#Parar{
+    background-color: red;
+    font-size: 24px;
+    height: 30px;
+}
+#Pausar{
+    background-color: yellow;
+    font-size: 24px;
+    height: 30px;
+}
+h1{
+    font-size: 50px;
+}
